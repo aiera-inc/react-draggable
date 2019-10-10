@@ -1,9 +1,9 @@
 {
   "name": "react-draggable",
-  "version": "4.0.4",
+  "version": "4.0.4-aiera",
   "description": "React draggable component",
   "main": "index.js",
-  "browser": "web/react-draggable.min.js",
+  "browser": "web/react-draggable.js",
   "scripts": {
     "test": "make test",
     "test-debug": "karma start --browsers=Chrome",
