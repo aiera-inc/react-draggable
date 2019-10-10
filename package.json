@@ -1,6 +1,6 @@
 {
   "name": "react-draggable",
-  "version": "4.0.4-aiera",
+  "version": "4.0.5-aiera",
   "description": "React draggable component",
   "main": "index.js",
   "browser": "web/react-draggable.js",
